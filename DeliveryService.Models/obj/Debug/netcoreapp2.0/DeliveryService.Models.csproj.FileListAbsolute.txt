@@ -1,0 +1,9 @@
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService.Models\bin\Debug\netcoreapp2.0\DeliveryService.Models.deps.json
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService.Models\bin\Debug\netcoreapp2.0\DeliveryService.Models.dll
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService.Models\bin\Debug\netcoreapp2.0\DeliveryService.Models.pdb
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService.Models\obj\Debug\netcoreapp2.0\DeliveryService.Models.csprojResolveAssemblyReference.cache
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService.Models\obj\Debug\netcoreapp2.0\DeliveryService.Models.csproj.CoreCompileInputs.cache
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService.Models\obj\Debug\netcoreapp2.0\DeliveryService.Models.AssemblyInfoInputs.cache
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService.Models\obj\Debug\netcoreapp2.0\DeliveryService.Models.AssemblyInfo.cs
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService.Models\obj\Debug\netcoreapp2.0\DeliveryService.Models.dll
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService.Models\obj\Debug\netcoreapp2.0\DeliveryService.Models.pdb

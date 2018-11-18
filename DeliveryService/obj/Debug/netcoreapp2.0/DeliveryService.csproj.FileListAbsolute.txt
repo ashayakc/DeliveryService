@@ -1,0 +1,17 @@
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\bin\Debug\netcoreapp2.0\DeliveryService.deps.json
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\bin\Debug\netcoreapp2.0\DeliveryService.runtimeconfig.json
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\bin\Debug\netcoreapp2.0\DeliveryService.runtimeconfig.dev.json
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\bin\Debug\netcoreapp2.0\DeliveryService.dll
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\obj\Debug\netcoreapp2.0\DeliveryService.csprojResolveAssemblyReference.cache
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\obj\Debug\netcoreapp2.0\DeliveryService.csproj.CoreCompileInputs.cache
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\obj\Debug\netcoreapp2.0\DeliveryService.AssemblyInfoInputs.cache
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\obj\Debug\netcoreapp2.0\DeliveryService.AssemblyInfo.cs
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\bin\Debug\netcoreapp2.0\DeliveryService.pdb
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\obj\Debug\netcoreapp2.0\DeliveryService.dll
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\obj\Debug\netcoreapp2.0\DeliveryService.pdb
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\bin\Debug\netcoreapp2.0\DeliveryService.Models.dll
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\bin\Debug\netcoreapp2.0\DeliveryService.Models.pdb
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\bin\Debug\netcoreapp2.0\DeliveryService.Logic.dll
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\bin\Debug\netcoreapp2.0\DeliveryService.Repository.dll
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\bin\Debug\netcoreapp2.0\DeliveryService.Logic.pdb
+D:\Learning\DotNetCoreProjects\DeliveryService\DeliveryService\bin\Debug\netcoreapp2.0\DeliveryService.Repository.pdb
